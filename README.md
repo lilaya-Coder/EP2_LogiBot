@@ -6,4 +6,4 @@ Agente orquestado con LangChain que integra Memoria (ConversationBufferMemory) y
 2. Crear entorno virtual: `python -m venv venv`
 3. Instalar dependencias: `pip install -r requirements.txt`
 4. Configurar `.env` con `GOOGLE_API_KEY`.
-5. Ejecutar: `python agent.py`
+5. Ejecutar: `python logibot.py`
